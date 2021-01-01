@@ -1,0 +1,381 @@
+,HomeTeam,AwayTeam,FTR,FTHG,FTAG,HS,AS,HST,AST,HC,AC,Season
+0,Arsenal,Aston Villa,A,1,3,16,9,4,4,4,3,1314
+1,Liverpool,Stoke,H,1,0,26,10,11,4,12,6,1314
+2,Norwich,Everton,D,2,2,8,19,2,6,6,8,1314
+3,Sunderland,Fulham,A,0,1,20,5,3,1,6,1,1314
+4,Swansea,Man United,A,1,4,17,15,6,7,7,4,1314
+5,West Brom,Southampton,A,0,1,11,7,1,2,4,8,1314
+6,West Ham,Cardiff,H,2,0,18,12,4,1,4,3,1314
+7,Chelsea,Hull,H,2,0,22,7,5,2,5,1,1314
+8,Crystal Palace,Tottenham,A,0,1,5,17,3,2,3,7,1314
+9,Man City,Newcastle,H,4,0,20,5,11,1,8,1,1314
+10,Chelsea,Aston Villa,H,2,1,15,7,3,3,1,2,1314
+11,Aston Villa,Liverpool,A,0,1,17,5,3,1,8,2,1314
+12,Everton,West Brom,D,0,0,22,7,8,2,11,1,1314
+13,Fulham,Arsenal,A,1,3,16,18,7,7,1,8,1314
+14,Hull,Norwich,H,1,0,6,13,1,4,1,5,1314
+15,Newcastle,West Ham,D,0,0,16,6,0,1,5,4,1314
+16,Southampton,Sunderland,D,1,1,17,8,6,3,5,2,1314
+17,Stoke,Crystal Palace,H,2,1,14,14,5,5,7,0,1314
+18,Cardiff,Man City,H,3,2,9,16,6,5,3,8,1314
+19,Tottenham,Swansea,H,1,0,19,7,5,5,8,3,1314
+20,Man United,Chelsea,D,0,0,13,8,3,4,4,1,1314
+21,Cardiff,Everton,D,0,0,4,13,1,3,4,5,1314
+22,Crystal Palace,Sunderland,H,3,1,17,10,6,2,6,6,1314
+23,Man City,Hull,H,2,0,12,7,6,2,7,4,1314
+24,Newcastle,Fulham,H,1,0,24,3,9,2,13,2,1314
+25,Norwich,Southampton,H,1,0,15,11,4,2,5,5,1314
+26,West Ham,Stoke,A,0,1,9,15,0,5,3,4,1314
+27,Arsenal,Tottenham,H,1,0,12,14,5,4,3,6,1314
+28,Liverpool,Man United,H,1,0,10,10,5,4,2,7,1314
+29,West Brom,Swansea,A,0,2,10,12,1,4,2,3,1314
+30,Aston Villa,Newcastle,A,1,2,10,17,1,8,4,2,1314
+31,Everton,Chelsea,H,1,0,11,22,5,5,5,7,1314
+32,Fulham,West Brom,D,1,1,12,12,2,4,4,5,1314
+33,Hull,Cardiff,D,1,1,18,10,5,2,6,2,1314
+34,Man United,Crystal Palace,H,2,0,19,4,7,0,10,1,1314
+35,Stoke,Man City,D,0,0,11,10,3,3,2,4,1314
+36,Sunderland,Arsenal,A,1,3,17,14,2,6,6,7,1314
+37,Tottenham,Norwich,H,2,0,23,4,7,1,8,1,1314
+38,Southampton,West Ham,D,0,0,15,6,5,1,10,4,1314
+39,Swansea,Liverpool,D,2,2,17,12,8,5,3,7,1314
+40,Chelsea,Fulham,H,2,0,26,4,10,1,13,3,1314
+41,Liverpool,Southampton,A,0,1,10,12,5,7,6,6,1314
+42,Newcastle,Hull,A,2,3,15,12,2,5,3,3,1314
+43,Norwich,Aston Villa,A,0,1,12,16,1,4,7,4,1314
+44,West Brom,Sunderland,H,3,0,13,7,4,0,5,6,1314
+45,West Ham,Everton,A,2,3,9,10,1,4,5,5,1314
+46,Arsenal,Stoke,H,3,1,16,9,8,3,6,7,1314
+47,Cardiff,Tottenham,A,0,1,6,29,0,12,2,12,1314
+48,Crystal Palace,Swansea,A,0,2,9,15,1,7,6,7,1314
+49,Man City,Man United,H,4,1,18,14,5,3,8,4,1314
+50,Aston Villa,Man City,H,3,2,8,20,4,7,2,13,1314
+51,Fulham,Cardiff,A,1,2,9,22,5,4,11,10,1314
+52,Hull,West Ham,H,1,0,9,18,2,5,6,6,1314
+53,Man United,West Brom,A,1,2,14,12,6,4,5,8,1314
+54,Southampton,Crystal Palace,H,2,0,12,8,3,0,8,2,1314
+55,Swansea,Arsenal,A,1,2,10,10,3,4,4,3,1314
+56,Tottenham,Chelsea,D,1,1,12,11,4,5,4,5,1314
+57,Stoke,Norwich,A,0,1,8,8,1,3,7,3,1314
+58,Sunderland,Liverpool,A,1,3,23,15,5,6,10,8,1314
+59,Everton,Newcastle,H,3,2,18,15,7,6,1,1,1314
+60,Cardiff,Newcastle,A,1,2,8,20,2,10,3,3,1314
+61,Fulham,Stoke,H,1,0,9,16,2,3,7,5,1314
+62,Hull,Aston Villa,D,0,0,6,18,1,4,7,7,1314
+63,Liverpool,Crystal Palace,H,3,1,13,11,7,2,11,3,1314
+64,Man City,Everton,H,3,1,12,6,6,4,8,1,1314
+65,Sunderland,Man United,A,1,2,6,13,2,6,4,4,1314
+66,Norwich,Chelsea,A,1,3,14,22,3,8,4,6,1314
+67,Southampton,Swansea,H,2,0,12,17,4,7,7,4,1314
+68,Tottenham,West Ham,A,0,3,14,16,4,5,6,7,1314
+69,West Brom,Arsenal,D,1,1,12,14,4,5,6,2,1314
+70,Arsenal,Norwich,H,4,1,20,12,11,6,10,1,1314
+71,Chelsea,Cardiff,H,4,1,20,13,7,3,6,9,1314
+72,Everton,Hull,H,2,1,14,9,6,1,5,7,1314
+73,Man United,Southampton,D,1,1,12,18,5,7,4,4,1314
+74,Newcastle,Liverpool,D,2,2,14,23,4,7,3,13,1314
+75,Stoke,West Brom,D,0,0,9,12,3,5,6,6,1314
+76,Swansea,Sunderland,H,4,0,14,6,6,1,7,2,1314
+77,West Ham,Man City,A,1,3,11,16,2,9,5,5,1314
+78,Aston Villa,Tottenham,A,0,2,15,13,2,6,4,7,1314
+79,Crystal Palace,Fulham,A,1,4,14,9,4,6,5,7,1314
+80,Aston Villa,Everton,A,0,2,14,15,3,4,8,6,1314
+81,Crystal Palace,Arsenal,A,0,2,13,10,4,4,4,3,1314
+82,Liverpool,West Brom,H,4,1,18,15,7,3,3,9,1314
+83,Man United,Stoke,H,3,2,19,10,5,5,12,2,1314
+84,Norwich,Cardiff,D,0,0,31,6,10,4,13,2,1314
+85,Southampton,Fulham,H,2,0,20,1,6,0,10,3,1314
+86,Chelsea,Man City,H,2,1,12,15,4,6,3,6,1314
+87,Sunderland,Newcastle,H,2,1,8,16,4,4,5,3,1314
+88,Swansea,West Ham,D,0,0,10,15,5,4,9,6,1314
+89,Tottenham,Hull,H,1,0,15,10,6,4,6,4,1314
+90,Arsenal,Liverpool,H,2,0,12,12,7,4,3,5,1314
+91,Fulham,Man United,A,1,3,15,10,6,4,4,4,1314
+92,Hull,Sunderland,H,1,0,25,9,2,1,4,2,1314
+93,Man City,Norwich,H,7,0,27,7,9,1,10,3,1314
+94,Newcastle,Chelsea,H,2,0,15,13,8,2,3,8,1314
+95,Stoke,Southampton,D,1,1,9,10,3,2,5,5,1314
+96,West Brom,Crystal Palace,H,2,0,9,12,4,4,10,3,1314
+97,West Ham,Aston Villa,D,0,0,17,8,4,2,5,1,1314
+98,Cardiff,Swansea,H,1,0,9,10,3,3,6,3,1314
+99,Everton,Tottenham,D,0,0,8,16,1,6,7,4,1314
+100,Aston Villa,Cardiff,H,2,0,17,8,6,2,5,3,1314
+101,Chelsea,West Brom,D,2,2,17,11,7,3,9,4,1314
+102,Crystal Palace,Everton,D,0,0,9,15,2,2,4,7,1314
+103,Liverpool,Fulham,H,4,0,32,4,10,1,9,3,1314
+104,Norwich,West Ham,H,3,1,15,12,6,4,4,2,1314
+105,Southampton,Hull,H,4,1,15,10,7,2,6,5,1314
+106,Man United,Arsenal,H,1,0,5,10,2,2,5,6,1314
+107,Sunderland,Man City,H,1,0,5,24,2,4,0,14,1314
+108,Swansea,Stoke,D,3,3,17,6,6,3,14,3,1314
+109,Tottenham,Newcastle,A,0,1,31,8,14,4,11,4,1314
+110,Arsenal,Southampton,H,2,0,9,10,4,4,5,6,1314
+111,Everton,Liverpool,D,3,3,18,11,12,5,6,7,1314
+112,Fulham,Swansea,A,1,2,9,21,3,5,8,8,1314
+113,Hull,Crystal Palace,A,0,1,15,9,2,2,11,4,1314
+114,Newcastle,Norwich,H,2,1,21,10,5,2,6,5,1314
+115,Stoke,Sunderland,H,2,0,17,11,5,3,3,7,1314
+116,West Ham,Chelsea,A,0,3,8,20,1,8,8,4,1314
+117,Cardiff,Man United,D,2,2,14,16,4,5,2,8,1314
+118,Man City,Tottenham,H,6,0,15,13,10,5,4,7,1314
+119,West Brom,Aston Villa,D,2,2,11,15,4,7,4,2,1314
+120,Aston Villa,Sunderland,D,0,0,13,7,4,1,7,6,1314
+121,Cardiff,Arsenal,A,0,3,10,15,4,6,3,3,1314
+122,Everton,Stoke,H,4,0,22,4,12,3,9,3,1314
+123,Newcastle,West Brom,H,2,1,14,14,6,1,3,3,1314
+124,Norwich,Crystal Palace,H,1,0,10,13,3,3,5,4,1314
+125,West Ham,Fulham,H,3,0,23,10,12,0,6,3,1314
+126,Chelsea,Southampton,H,3,1,16,9,7,1,8,4,1314
+127,Hull,Liverpool,H,3,1,12,9,4,4,2,6,1314
+128,Man City,Swansea,H,3,0,22,9,7,4,5,4,1314
+129,Tottenham,Man United,D,2,2,10,8,4,3,7,7,1314
+130,Crystal Palace,West Ham,H,1,0,10,11,5,2,3,4,1314
+131,Arsenal,Hull,H,2,0,20,7,7,2,11,1,1314
+132,Fulham,Tottenham,A,1,2,16,18,6,5,9,7,1314
+133,Liverpool,Norwich,H,5,1,28,14,12,5,4,0,1314
+134,Man United,Everton,A,0,1,18,15,6,4,7,4,1314
+135,Southampton,Aston Villa,A,2,3,21,6,9,3,8,2,1314
+136,Stoke,Cardiff,D,0,0,17,14,2,3,2,5,1314
+137,Sunderland,Chelsea,A,3,4,12,19,3,5,6,5,1314
+138,Swansea,Newcastle,H,3,0,13,14,5,3,5,1,1314
+139,West Brom,Man City,A,2,3,12,15,1,5,3,3,1314
+140,Crystal Palace,Cardiff,H,2,0,19,10,5,2,8,3,1314
+141,Liverpool,West Ham,H,4,1,32,8,9,1,8,4,1314
+142,Man United,Newcastle,A,0,1,8,9,4,3,4,4,1314
+143,Southampton,Man City,D,1,1,15,13,4,3,5,4,1314
+144,Stoke,Chelsea,H,3,2,9,15,3,6,5,2,1314
+145,Sunderland,Tottenham,A,1,2,11,22,4,5,4,10,1314
+146,West Brom,Norwich,A,0,2,26,8,12,3,10,3,1314
+147,Arsenal,Everton,D,1,1,11,12,5,4,3,2,1314
+148,Fulham,Aston Villa,H,2,0,22,10,10,2,4,7,1314
+149,Swansea,Hull,D,1,1,11,9,2,2,12,1,1314
+150,Cardiff,West Brom,H,1,0,11,12,3,2,8,6,1314
+151,Chelsea,Crystal Palace,H,2,1,16,10,7,5,3,1,1314
+152,Everton,Fulham,H,4,1,22,16,7,3,12,2,1314
+153,Hull,Stoke,D,0,0,13,11,4,2,7,5,1314
+154,Man City,Arsenal,H,6,3,22,12,7,6,8,8,1314
+155,Newcastle,Southampton,D,1,1,16,8,5,3,11,3,1314
+156,West Ham,Sunderland,D,0,0,11,19,2,6,2,9,1314
+157,Aston Villa,Man United,A,0,3,17,14,6,5,3,4,1314
+158,Norwich,Swansea,D,1,1,16,10,3,2,8,5,1314
+159,Tottenham,Liverpool,A,0,5,9,21,0,10,2,9,1314
+160,Crystal Palace,Newcastle,A,0,3,9,13,4,6,3,7,1314
+161,Fulham,Man City,A,2,4,12,17,5,10,4,4,1314
+162,Liverpool,Cardiff,H,3,1,27,10,7,3,9,5,1314
+163,Man United,West Ham,H,3,1,21,4,8,1,8,2,1314
+164,Stoke,Aston Villa,H,2,1,12,14,2,4,6,7,1314
+165,Sunderland,Norwich,D,0,0,18,14,4,5,6,7,1314
+166,West Brom,Hull,D,1,1,14,6,3,3,9,2,1314
+167,Southampton,Tottenham,A,2,3,12,13,5,3,2,5,1314
+168,Swansea,Everton,A,1,2,13,14,3,6,4,8,1314
+169,Arsenal,Chelsea,D,0,0,7,13,2,4,8,6,1314
+170,Aston Villa,Crystal Palace,A,0,1,10,12,4,7,7,5,1314
+171,Cardiff,Southampton,A,0,3,9,11,0,6,6,3,1314
+172,Chelsea,Swansea,H,1,0,19,8,7,1,13,7,1314
+173,Everton,Sunderland,A,0,1,26,13,9,6,11,2,1314
+174,Hull,Man United,A,2,3,17,13,5,4,6,5,1314
+175,Man City,Liverpool,H,2,1,20,12,6,5,7,6,1314
+176,Newcastle,Stoke,H,5,1,27,11,8,3,8,2,1314
+177,Norwich,Fulham,A,1,2,12,15,3,7,5,4,1314
+178,Tottenham,West Brom,D,1,1,20,7,3,4,12,2,1314
+179,West Ham,Arsenal,A,1,3,12,29,5,8,0,10,1314
+180,Aston Villa,Swansea,D,1,1,7,17,3,3,2,8,1314
+181,Cardiff,Sunderland,D,2,2,16,21,7,9,6,6,1314
+182,Hull,Fulham,H,6,0,21,5,13,2,6,1,1314
+183,Man City,Crystal Palace,H,1,0,23,9,4,4,12,5,1314
+184,Norwich,Man United,A,0,1,15,7,4,3,8,3,1314
+185,West Ham,West Brom,D,3,3,16,22,6,7,6,5,1314
+186,Chelsea,Liverpool,H,2,1,11,8,5,4,4,2,1314
+187,Everton,Southampton,H,2,1,9,12,4,2,2,3,1314
+188,Newcastle,Arsenal,A,0,1,11,11,3,5,4,1,1314
+189,Tottenham,Stoke,H,3,0,20,2,7,1,6,1,1314
+190,Arsenal,Cardiff,H,2,0,28,8,6,2,12,2,1314
+191,Crystal Palace,Norwich,D,1,1,13,8,4,5,9,4,1314
+192,Fulham,West Ham,H,2,1,30,11,11,3,12,4,1314
+193,Liverpool,Hull,H,2,0,17,10,6,0,3,4,1314
+194,Man United,Tottenham,A,1,2,16,9,6,4,13,2,1314
+195,Southampton,Chelsea,A,0,3,12,11,2,5,6,8,1314
+196,Stoke,Everton,D,1,1,10,16,4,4,2,5,1314
+197,Sunderland,Aston Villa,A,0,1,17,13,1,5,10,2,1314
+198,Swansea,Man City,A,2,3,15,14,4,4,8,6,1314
+199,West Brom,Newcastle,H,1,0,13,9,4,3,3,4,1314
+200,Cardiff,West Ham,A,0,2,19,10,7,3,8,7,1314
+201,Everton,Norwich,H,2,0,23,12,5,3,10,5,1314
+202,Fulham,Sunderland,A,1,4,17,10,5,6,10,6,1314
+203,Hull,Chelsea,A,0,2,10,14,2,5,1,7,1314
+204,Man United,Swansea,H,2,0,16,13,5,2,3,5,1314
+205,Southampton,West Brom,H,1,0,18,4,5,2,4,4,1314
+206,Tottenham,Crystal Palace,H,2,0,10,14,4,2,5,11,1314
+207,Newcastle,Man City,A,0,2,13,14,5,6,5,6,1314
+208,Stoke,Liverpool,A,3,5,13,13,4,9,11,2,1314
+209,Aston Villa,Arsenal,A,1,2,11,8,5,4,3,5,1314
+210,Arsenal,Fulham,H,2,0,22,8,8,2,4,4,1314
+211,Crystal Palace,Stoke,H,1,0,12,17,6,2,4,3,1314
+212,Liverpool,Aston Villa,D,2,2,14,12,6,3,2,3,1314
+213,Man City,Cardiff,H,4,2,24,7,9,6,10,7,1314
+214,Norwich,Hull,H,1,0,25,10,4,0,10,8,1314
+215,Sunderland,Southampton,D,2,2,10,17,5,8,4,7,1314
+216,West Ham,Newcastle,A,1,3,11,19,2,9,4,3,1314
+217,Chelsea,Man United,H,3,1,13,10,6,4,5,4,1314
+218,Swansea,Tottenham,A,1,3,13,11,3,5,8,2,1314
+219,West Brom,Everton,D,1,1,14,13,6,4,4,2,1314
+220,Crystal Palace,Hull,H,1,0,13,13,3,4,8,3,1314
+221,Liverpool,Everton,H,4,0,20,18,9,4,5,8,1314
+222,Man United,Cardiff,H,2,0,17,7,5,1,5,5,1314
+223,Norwich,Newcastle,D,0,0,9,22,2,3,7,7,1314
+224,Southampton,Arsenal,D,2,2,13,7,5,4,7,5,1314
+225,Swansea,Fulham,H,2,0,14,15,7,4,5,8,1314
+226,Aston Villa,West Brom,H,4,3,10,12,6,4,3,3,1314
+227,Chelsea,West Ham,D,0,0,39,1,9,1,13,3,1314
+228,Sunderland,Stoke,H,1,0,16,14,6,5,2,3,1314
+229,Tottenham,Man City,A,1,5,4,24,2,10,3,5,1314
+230,Cardiff,Norwich,H,2,1,14,27,5,6,7,14,1314
+231,Everton,Aston Villa,H,2,1,13,4,6,1,13,1,1314
+232,Fulham,Southampton,A,0,3,8,17,4,5,4,5,1314
+233,Hull,Tottenham,D,1,1,9,19,4,3,4,10,1314
+234,Newcastle,Sunderland,A,0,3,28,16,10,5,7,3,1314
+235,Stoke,Man United,H,2,1,13,19,6,4,7,10,1314
+236,West Ham,Swansea,H,2,0,11,20,4,0,8,11,1314
+237,Arsenal,Crystal Palace,H,2,0,11,10,6,2,6,5,1314
+238,West Brom,Liverpool,D,1,1,12,12,4,3,3,4,1314
+239,Man City,Chelsea,A,0,1,25,18,3,6,12,6,1314
+240,Aston Villa,West Ham,A,0,2,16,10,1,2,8,10,1314
+241,Chelsea,Newcastle,H,3,0,18,12,8,6,6,5,1314
+242,Crystal Palace,West Brom,H,3,1,10,16,6,6,4,7,1314
+243,Liverpool,Arsenal,H,5,1,22,11,12,6,6,6,1314
+244,Norwich,Man City,D,0,0,7,15,2,2,4,14,1314
+245,Southampton,Stoke,D,2,2,17,5,5,4,7,4,1314
+246,Sunderland,Hull,A,0,2,7,25,3,9,2,6,1314
+247,Swansea,Cardiff,H,3,0,17,7,6,1,5,1,1314
+248,Man United,Fulham,D,2,2,31,6,9,3,10,1,1314
+249,Tottenham,Everton,H,1,0,8,11,2,3,9,7,1314
+250,Cardiff,Aston Villa,D,0,0,12,18,3,6,7,9,1314
+251,Hull,Southampton,A,0,1,12,16,4,7,2,2,1314
+252,West Brom,Chelsea,D,1,1,12,15,1,4,5,8,1314
+253,West Ham,Norwich,H,2,0,12,13,7,6,5,5,1314
+254,Arsenal,Man United,D,0,0,17,6,5,2,5,5,1314
+255,Fulham,Liverpool,A,2,3,10,21,3,7,7,5,1314
+256,Newcastle,Tottenham,A,0,4,13,15,5,8,8,6,1314
+257,Stoke,Swansea,D,1,1,7,13,4,3,2,5,1314
+258,Arsenal,Sunderland,H,4,1,12,7,9,3,7,3,1314
+259,Cardiff,Hull,A,0,4,23,12,5,6,9,2,1314
+260,Chelsea,Everton,H,1,0,25,8,8,2,8,8,1314
+261,Crystal Palace,Man United,A,0,2,15,14,6,5,6,4,1314
+262,Man City,Stoke,H,1,0,19,7,7,2,8,3,1314
+263,West Brom,Fulham,D,1,1,16,7,5,3,8,2,1314
+264,West Ham,Southampton,H,3,1,10,25,5,5,5,11,1314
+265,Liverpool,Swansea,H,4,3,21,14,10,5,3,5,1314
+266,Newcastle,Aston Villa,H,1,0,23,10,5,2,10,1,1314
+267,Norwich,Tottenham,H,1,0,13,9,3,2,5,3,1314
+268,Everton,West Ham,H,1,0,22,6,3,1,11,5,1314
+269,Fulham,Chelsea,A,1,3,7,17,3,8,5,4,1314
+270,Hull,Newcastle,A,1,4,13,17,3,7,6,3,1314
+271,Southampton,Liverpool,A,0,3,13,12,2,5,3,6,1314
+272,Stoke,Arsenal,H,1,0,8,10,4,2,3,4,1314
+273,Aston Villa,Norwich,H,4,1,10,7,4,4,6,2,1314
+274,Swansea,Crystal Palace,D,1,1,7,7,5,4,1,4,1314
+275,Tottenham,Cardiff,H,1,0,15,8,6,2,4,7,1314
+276,Cardiff,Fulham,H,3,1,19,14,9,6,7,6,1314
+277,Chelsea,Tottenham,H,4,0,12,6,4,2,5,4,1314
+278,Crystal Palace,Southampton,A,0,1,6,11,1,3,8,3,1314
+279,Norwich,Stoke,D,1,1,13,6,5,3,3,1,1314
+280,West Brom,Man United,A,0,3,14,14,3,5,3,5,1314
+281,Aston Villa,Chelsea,H,1,0,13,15,4,2,4,5,1314
+282,Everton,Cardiff,H,2,1,19,10,6,3,10,5,1314
+283,Fulham,Newcastle,H,1,0,12,12,3,3,9,7,1314
+284,Hull,Man City,A,0,2,15,8,5,3,3,4,1314
+285,Southampton,Norwich,H,4,2,16,6,6,3,6,1,1314
+286,Stoke,West Ham,H,3,1,17,8,9,2,6,4,1314
+287,Sunderland,Crystal Palace,D,0,0,19,12,2,5,6,2,1314
+288,Swansea,West Brom,A,1,2,15,13,4,4,4,1,1314
+289,Man United,Liverpool,A,0,3,13,17,1,7,3,4,1314
+290,Tottenham,Arsenal,A,0,1,17,7,2,3,5,2,1314
+291,Cardiff,Liverpool,A,3,6,9,19,3,9,4,6,1314
+292,Chelsea,Arsenal,H,6,0,21,12,11,5,7,1,1314
+293,Everton,Swansea,H,3,2,9,21,6,7,5,12,1314
+294,Hull,West Brom,H,2,0,12,17,5,4,4,5,1314
+295,Man City,Fulham,H,5,0,22,6,12,0,13,2,1314
+296,Newcastle,Crystal Palace,H,1,0,21,8,8,1,9,5,1314
+297,Norwich,Sunderland,H,2,0,14,10,8,2,8,5,1314
+298,West Ham,Man United,A,0,2,10,16,1,7,12,7,1314
+299,Aston Villa,Stoke,A,1,4,12,10,3,5,5,3,1314
+300,Tottenham,Southampton,H,3,2,15,12,6,4,7,3,1314
+301,Arsenal,Swansea,D,2,2,13,8,4,2,7,0,1314
+302,Man United,Man City,A,0,3,10,13,4,4,5,8,1314
+303,Newcastle,Everton,A,0,3,16,8,3,6,9,8,1314
+304,Liverpool,Sunderland,H,2,1,21,12,7,4,3,4,1314
+305,West Ham,Hull,H,2,1,9,10,3,3,4,5,1314
+306,Arsenal,Man City,D,1,1,10,15,3,4,6,6,1314
+307,Crystal Palace,Chelsea,H,1,0,14,21,4,2,2,13,1314
+308,Man United,Aston Villa,H,4,1,9,10,6,1,0,5,1314
+309,Southampton,Newcastle,H,4,0,23,5,11,2,7,5,1314
+310,Stoke,Hull,H,1,0,15,5,3,3,8,1,1314
+311,Swansea,Norwich,H,3,0,16,8,7,4,7,4,1314
+312,West Brom,Cardiff,D,3,3,16,11,6,5,4,1,1314
+313,Fulham,Everton,A,1,3,23,14,8,7,5,6,1314
+314,Liverpool,Tottenham,H,4,0,11,15,5,4,5,7,1314
+315,Sunderland,West Ham,A,1,2,26,11,7,6,8,3,1314
+316,Aston Villa,Fulham,A,1,2,12,16,6,8,2,7,1314
+317,Cardiff,Crystal Palace,A,0,3,13,13,4,8,10,3,1314
+318,Chelsea,Stoke,H,3,0,18,4,8,2,7,3,1314
+319,Hull,Swansea,H,1,0,8,12,4,2,7,2,1314
+320,Man City,Southampton,H,4,1,15,5,8,1,5,9,1314
+321,Newcastle,Man United,A,0,4,14,8,4,4,4,5,1314
+322,Norwich,West Brom,A,0,1,12,8,4,5,7,3,1314
+323,Everton,Arsenal,H,3,0,14,15,8,5,3,6,1314
+324,West Ham,Liverpool,A,1,2,11,17,1,8,4,4,1314
+325,Tottenham,Sunderland,H,5,1,29,8,11,4,8,2,1314
+326,Crystal Palace,Aston Villa,H,1,0,14,7,4,4,2,4,1314
+327,Fulham,Norwich,H,1,0,14,13,3,3,8,8,1314
+328,Southampton,Cardiff,A,0,1,19,6,7,4,5,5,1314
+329,Stoke,Newcastle,H,1,0,10,13,3,1,4,5,1314
+330,Sunderland,Everton,A,0,1,24,20,6,3,6,6,1314
+331,West Brom,Tottenham,D,3,3,6,20,5,8,2,2,1314
+332,Liverpool,Man City,H,3,2,10,13,4,5,7,7,1314
+333,Swansea,Chelsea,A,0,1,7,26,4,3,5,12,1314
+334,Arsenal,West Ham,H,3,1,14,12,8,2,4,3,1314
+335,Everton,Crystal Palace,A,2,3,17,7,5,4,13,3,1314
+336,Man City,Sunderland,D,2,2,16,11,4,3,3,6,1314
+337,Aston Villa,Southampton,D,0,0,6,3,1,2,5,3,1314
+338,Cardiff,Stoke,D,1,1,13,14,4,5,12,7,1314
+339,Chelsea,Sunderland,A,1,2,31,7,15,3,10,4,1314
+340,Newcastle,Swansea,A,1,2,14,10,4,2,2,8,1314
+341,Tottenham,Fulham,H,3,1,14,11,5,4,4,5,1314
+342,West Ham,Crystal Palace,A,0,1,13,11,4,3,3,11,1314
+343,Everton,Man United,H,2,0,17,9,5,2,6,5,1314
+344,Hull,Arsenal,A,0,3,13,12,4,6,7,0,1314
+345,Norwich,Liverpool,A,2,3,13,14,5,6,8,3,1314
+346,Man City,West Brom,H,3,1,19,10,6,3,8,2,1314
+347,Fulham,Hull,D,2,2,10,8,3,4,7,2,1314
+348,Man United,Norwich,H,4,0,25,9,11,2,5,3,1314
+349,Southampton,Everton,H,2,0,14,9,4,2,4,7,1314
+350,Stoke,Tottenham,A,0,1,17,16,3,4,4,3,1314
+351,Swansea,Aston Villa,H,4,1,11,11,8,3,9,6,1314
+352,West Brom,West Ham,H,1,0,19,9,6,3,7,6,1314
+353,Crystal Palace,Man City,A,0,2,3,16,2,6,4,8,1314
+354,Liverpool,Chelsea,A,0,2,26,11,8,4,14,3,1314
+355,Sunderland,Cardiff,H,4,0,21,6,7,1,11,5,1314
+356,Arsenal,Newcastle,H,3,0,20,8,8,3,14,0,1314
+357,Aston Villa,Hull,H,3,1,15,7,9,2,8,5,1314
+358,Everton,Man City,A,2,3,9,18,4,6,4,3,1314
+359,Man United,Sunderland,A,0,1,17,8,2,1,8,0,1314
+360,Newcastle,Cardiff,H,3,0,22,16,6,3,10,6,1314
+361,Stoke,Fulham,H,4,1,23,10,8,2,3,5,1314
+362,Swansea,Southampton,A,0,1,12,18,3,4,3,5,1314
+363,West Ham,Tottenham,H,2,0,20,12,8,3,10,6,1314
+364,Arsenal,West Brom,H,1,0,15,11,4,1,9,10,1314
+365,Chelsea,Norwich,D,0,0,23,6,4,3,5,2,1314
+366,Crystal Palace,Liverpool,D,3,3,10,26,6,9,7,7,1314
+367,Man United,Hull,H,3,1,18,2,7,2,8,0,1314
+368,Man City,Aston Villa,H,4,0,18,5,9,0,7,2,1314
+369,Sunderland,West Brom,H,2,0,10,13,4,3,5,0,1314
+370,Cardiff,Chelsea,A,1,2,10,28,4,7,3,8,1314
+371,Fulham,Crystal Palace,D,2,2,15,15,5,6,6,4,1314
+372,Hull,Everton,A,0,2,12,11,3,4,6,4,1314
+373,Liverpool,Newcastle,H,2,1,13,8,5,2,6,2,1314
+374,Man City,West Ham,H,2,0,28,3,7,0,12,1,1314
+375,Norwich,Arsenal,A,0,2,11,14,5,8,4,4,1314
+376,Southampton,Man United,D,1,1,15,8,6,2,6,2,1314
+377,Sunderland,Swansea,A,1,3,20,8,4,4,6,3,1314
+378,Tottenham,Aston Villa,H,3,0,12,4,6,1,5,1,1314
+379,West Brom,Stoke,A,1,2,17,15,4,4,11,6,1314
