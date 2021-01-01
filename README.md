@@ -1,1 +1,1 @@
-# Implementing-Machine-Learning-SVM-Method-for-Predicting-the-Results-of-Football-Matches-EPL
+# Implementasi-Metode-Support-Vector-Machine-untuk-Prediksi-Hasil-Pertandingan-English-Premier-League 
